@@ -5,7 +5,7 @@ This is a simple project to demonstrate the ETL process in E-commerce data. For 
 <h2> Work-FLow</h2>
 The overal workflow of this project looks like:
 
-![work_flow](outputs/work_flow.png?raw=true "work_flow")
+![workflow](outputs/workflow.png?raw=true "workflow")
 
 <h3> Extract </h3>
 As mentioned earlier data regarding mobile phone prices, features and reviews were scraped from daraz. For the purpose of scraping the scrapy package in python was used. Spider was created to crawl product pages containing moble phones then scraping was done. The raw scraped data were stored in a csv file.
