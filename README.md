@@ -1,6 +1,6 @@
 <h1> E-commerce-ETL </h1>
 
-This is a simple project to demonstrate the ETL process in E-commerce data. For this purpose data was scraped from daraz more specifically the data about mobile phines only. THe data related to the price, reviews and features of the phones were scraped. Subsequently requeried transformations were done and stored in a suitable form. Thus obtained data was finally stored in a csv. Finally, in the data simple analysis were performed and some visualizations of the data are created.
+This is a simple project to demonstrate the ETL process in E-commerce data. For this purpose data was scraped from daraz more specifically the data about mobile phones only. The data related to the price, reviews and features of the phones were scraped. Subsequently requeried transformations were done and stored in a suitable form. Thus obtained data was finally stored in a csv. Finally, in the data simple analysis were performed and some visualizations of the data are created.
 
 <h2> Work-FLow</h2>
 The overal workflow of this project looks like:
